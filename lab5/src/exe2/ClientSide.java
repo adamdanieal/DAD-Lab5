@@ -17,7 +17,7 @@ public class ClientSide {
 			System.out.println("\n-----------------Client Side------------------------\n");
 
 			ItemProduct itemproduct = new ItemProduct();
-			itemproduct.setname("Whiskas Meow Meow");
+			itemproduct.setname("MCD Special Set");
 			itemproduct.setPrice((float)27.00);
 
 			try {
